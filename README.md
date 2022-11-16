@@ -15,7 +15,7 @@
 ✔️ Contact me\
 ✔️ GitHub Profile
 
-To view a live example, **[click here](https://developerfolio.js.org/)**.
+To view a live example, **[click here](https://nhastings1.github.io/Nick-Hastings-React-Portfolio/**.
 
 ## Install dependencies
 npm install
