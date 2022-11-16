@@ -1,22 +1,20 @@
-/* Change this file to get your personal Portfolio */
 
-// To change portfolio colors globally go to the  _globalColor.scss file
 
 import emoji from "react-easy-emoji";
-import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
+import splashAnimation from "./assets/lottie/splashAnimation"; 
 
 // Splash Screen
 
 const splashScreen = {
-  enabled: true, // set false to disable splash screen
+  enabled: true, 
   animation: splashAnimation,
-  duration: 2000 // Set animation duration as per your animation
+  duration: 2000 
 };
 
 // Summary And Greeting Section
 
 const illustration = {
-  animated: true // Set to false to use static SVG
+  animated: false // Set to false to use static SVG
 };
 
 const greeting = {
@@ -26,18 +24,17 @@ const greeting = {
     "A full stack developer who loves to build things that live on the internet. I specialize in building and designing exceptional digital experiences. "
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
-  displayGreeting: false // Set false to hide this section, defaults to true
+    "empty", // Set to empty to hide the button
+  displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
   github: "https://github.com/nhastings1",
-  linkedin: "www.linkedin.com/in/nicholas-hastings-4445b9236",
+  linkedin: "",
   gmail: "nickh.code@gmail.com",
-  // Instagram, Twitter and Kaggle are also supported in the links!
-  // To customize icons and social links, tweak src/components/SocialMedia
+  
   display: true // Set true to display this section, defaults to false
 };
 
@@ -104,7 +101,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "MongoDB", 
       fontAwesomeClassname: "fas fa-database"
     },
-   
+
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -127,7 +124,7 @@ const educationInfo = {
   ]
 };
 
-// Your top 3 proficient stacks/tech experience
+
 
 const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
@@ -163,8 +160,7 @@ const workExperiences = {
   experience: []
 };
 
-/* Your Open Source Section to View Your Github Pinned Projects
-To know how to get github key look at readme.md */
+
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
@@ -186,7 +182,55 @@ const bigProjects = {
           name: "Visit Website",
           url: "https://nhastings1.github.io/Sweet-Beats-Product-Page/"
         }
-        //  you can add extra buttons here.
+        
+      ]
+    },
+    {
+      image: require("./assets/images/Movie.png"),
+      projectName: "Movie Choice App.",
+      projectDesc: "Real time movie choices with info and rating",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://nhastings1.github.io/Movie-Choice-Application/"
+        }
+        
+      ]
+    },
+    {
+      image: require("./assets/images/PG.png"),
+      projectName: "Generate Thy Password",
+      projectDesc: "Randomized secure password generator",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://nhastings1.github.io/Generate-Thy-Password/"
+        }
+      
+      ]
+    },
+    {
+      image: require("./assets/images/Quiz.png"),
+      projectName: "Quiz Me or Else",
+      projectDesc: "Timed Javascript Quiz that also records high scores",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://nhastings1.github.io/Quiz-Me-Or-Else-Final/"
+        }
+      
+      ]
+    },
+    {
+      image: require("./assets/images/WeatherAPI.png"),
+      projectName: "Weather Dashboard API",
+      projectDesc: "Realtime weather dashboard API with search and save functions",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://nhastings1.github.io/Weather-Dashboard-API/"
+        }
+      
       ]
     },
     {
@@ -261,7 +305,7 @@ const blogSection = {
 const talkSection = {
   title: "TALKS",
   subtitle: emoji(
-    "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
+    ""
   ),
 
   talks: [
@@ -283,7 +327,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
+    ""
   ],
   display: false // Set false to hide this section, defaults to true
 };

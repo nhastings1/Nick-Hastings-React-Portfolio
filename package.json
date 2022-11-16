@@ -1,5 +1,4 @@
-   
-   {
+{
     "homepage": "https://nhastings1.github.io/react-portfolio/",
     "name": "Nick Hastings Developer Portfolio",
     "version": "0.1.0",
@@ -56,6 +55,6 @@
     "devDependencies": {
         "dotenv": "^8.2.0",
         "gh-pages": "^4.0.0",
-        "prettier": "^2.3.1"
+        "prettier": "^2.7.1"
     }
 }
