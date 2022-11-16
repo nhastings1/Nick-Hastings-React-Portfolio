@@ -14,7 +14,7 @@ const splashScreen = {
 // Summary And Greeting Section
 
 const illustration = {
-  animated: false // Set to false to use static SVG
+  animated: true // Set to false to use static SVG
 };
 
 const greeting = {
@@ -32,7 +32,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/nhastings1",
-  linkedin: "",
+  linkedin: "https://www.linkedin.com/in/nicholas-hastings-4445b9236/",
   gmail: "nickh.code@gmail.com",
   
   display: true // Set true to display this section, defaults to false
