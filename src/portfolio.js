@@ -24,7 +24,7 @@ const greeting = {
     "A full stack developer who loves to build things that live on the internet. I specialize in building and designing exceptional digital experiences. "
   ),
   resumeLink:
-    "empty", // Set to empty to hide the button
+    "https://docs.google.com/document/d/1b7tkpWBWkv0OhlBU2csmlqtDjCOtX96N3brOEONt73Y/edit", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -243,6 +243,17 @@ const bigProjects = {
           url: "https://nhastings1.github.io/Concert-Weather-Connection/"
         }
       ]
+    },
+    {
+      image: require("./assets/images/HackChat.png"),
+      projectName: "Crypto Counter 2",
+      projectDesc: "Search and view real time crypto coins and their prices, market cap, and daily chang percentage",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://sensational-meerkat-55269f.netlify.app/"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -268,7 +279,7 @@ const achievementSection = {
         {name: "Certification", url: ""},
         {
           name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          url: ""
         }
       ]
     }
