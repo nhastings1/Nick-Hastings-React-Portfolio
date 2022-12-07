@@ -1,27 +1,28 @@
 {
   "files": {
     "main.css": "/Nick-Hastings-React-Portfolio/static/css/main.f92ad186.chunk.css",
-    "main.js": "/Nick-Hastings-React-Portfolio/static/js/main.be150dab.chunk.js",
-    "main.js.map": "/Nick-Hastings-React-Portfolio/static/js/main.be150dab.chunk.js.map",
-    "runtime-main.js": "/Nick-Hastings-React-Portfolio/static/js/runtime-main.3f900125.js",
-    "runtime-main.js.map": "/Nick-Hastings-React-Portfolio/static/js/runtime-main.3f900125.js.map",
-    "static/js/2.e6dbcfcc.chunk.js": "/Nick-Hastings-React-Portfolio/static/js/2.e6dbcfcc.chunk.js",
-    "static/js/2.e6dbcfcc.chunk.js.map": "/Nick-Hastings-React-Portfolio/static/js/2.e6dbcfcc.chunk.js.map",
+    "main.js": "/Nick-Hastings-React-Portfolio/static/js/main.16dba3d4.chunk.js",
+    "main.js.map": "/Nick-Hastings-React-Portfolio/static/js/main.16dba3d4.chunk.js.map",
+    "runtime-main.js": "/Nick-Hastings-React-Portfolio/static/js/runtime-main.57e9e5f6.js",
+    "runtime-main.js.map": "/Nick-Hastings-React-Portfolio/static/js/runtime-main.57e9e5f6.js.map",
+    "static/js/2.c7b658c0.chunk.js": "/Nick-Hastings-React-Portfolio/static/js/2.c7b658c0.chunk.js",
+    "static/js/2.c7b658c0.chunk.js.map": "/Nick-Hastings-React-Portfolio/static/js/2.c7b658c0.chunk.js.map",
     "static/css/3.df879eac.chunk.css": "/Nick-Hastings-React-Portfolio/static/css/3.df879eac.chunk.css",
-    "static/js/3.0cff11bf.chunk.js": "/Nick-Hastings-React-Portfolio/static/js/3.0cff11bf.chunk.js",
-    "static/js/3.0cff11bf.chunk.js.map": "/Nick-Hastings-React-Portfolio/static/js/3.0cff11bf.chunk.js.map",
+    "static/js/3.0d0449c7.chunk.js": "/Nick-Hastings-React-Portfolio/static/js/3.0d0449c7.chunk.js",
+    "static/js/3.0d0449c7.chunk.js.map": "/Nick-Hastings-React-Portfolio/static/js/3.0d0449c7.chunk.js.map",
     "static/css/4.d7ceb645.chunk.css": "/Nick-Hastings-React-Portfolio/static/css/4.d7ceb645.chunk.css",
-    "static/js/4.2e4f91f7.chunk.js": "/Nick-Hastings-React-Portfolio/static/js/4.2e4f91f7.chunk.js",
-    "static/js/4.2e4f91f7.chunk.js.map": "/Nick-Hastings-React-Portfolio/static/js/4.2e4f91f7.chunk.js.map",
+    "static/js/4.eff39f0e.chunk.js": "/Nick-Hastings-React-Portfolio/static/js/4.eff39f0e.chunk.js",
+    "static/js/4.eff39f0e.chunk.js.map": "/Nick-Hastings-React-Portfolio/static/js/4.eff39f0e.chunk.js.map",
     "index.html": "/Nick-Hastings-React-Portfolio/index.html",
-    "precache-manifest.2e5fcbd2352092c0eb09c9034d2023b6.js": "/Nick-Hastings-React-Portfolio/precache-manifest.2e5fcbd2352092c0eb09c9034d2023b6.js",
+    "precache-manifest.2f460d7558c018c44a0295d76482b0a3.js": "/Nick-Hastings-React-Portfolio/precache-manifest.2f460d7558c018c44a0295d76482b0a3.js",
     "service-worker.js": "/Nick-Hastings-React-Portfolio/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/Nick-Hastings-React-Portfolio/static/css/3.df879eac.chunk.css.map",
     "static/css/4.d7ceb645.chunk.css.map": "/Nick-Hastings-React-Portfolio/static/css/4.d7ceb645.chunk.css.map",
     "static/css/main.f92ad186.chunk.css.map": "/Nick-Hastings-React-Portfolio/static/css/main.f92ad186.chunk.css.map",
-    "static/js/2.e6dbcfcc.chunk.js.LICENSE.txt": "/Nick-Hastings-React-Portfolio/static/js/2.e6dbcfcc.chunk.js.LICENSE.txt",
+    "static/js/2.c7b658c0.chunk.js.LICENSE.txt": "/Nick-Hastings-React-Portfolio/static/js/2.c7b658c0.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Nick-Hastings-React-Portfolio/static/media/Montserrat-Regular.d41d8cd9.ttf",
     "static/media/Concert.png": "/Nick-Hastings-React-Portfolio/static/media/Concert.4c7c3920.png",
+    "static/media/HackChat.png": "/Nick-Hastings-React-Portfolio/static/media/HackChat.fa110f3c.png",
     "static/media/Movie.png": "/Nick-Hastings-React-Portfolio/static/media/Movie.39461d66.png",
     "static/media/PG.png": "/Nick-Hastings-React-Portfolio/static/media/PG.ca067e43.png",
     "static/media/Quiz.png": "/Nick-Hastings-React-Portfolio/static/media/Quiz.5b75625b.png",
@@ -35,9 +36,9 @@
     "static/media/TalkCard.scss": "/Nick-Hastings-React-Portfolio/static/media/talksCardBack.13780cdd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f900125.js",
-    "static/js/2.e6dbcfcc.chunk.js",
+    "static/js/runtime-main.57e9e5f6.js",
+    "static/js/2.c7b658c0.chunk.js",
     "static/css/main.f92ad186.chunk.css",
-    "static/js/main.be150dab.chunk.js"
+    "static/js/main.16dba3d4.chunk.js"
   ]
 }
