@@ -101,7 +101,19 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "MongoDB", 
       fontAwesomeClassname: "fas fa-database"
     },
-
+    {
+      skillName: "Github",
+      fontAwesomeClassname: "fab fa-github"
+    },
+    {
+      skillName: "Bootstrap",
+      fontAwesomeClassname: "fab fa-bootstrap"
+    },
+    {
+      skillName: "Wordpress",
+      fontAwesomeClassname: "fab fa-wordpress"
+    },
+   
   ],
   display: true // Set false to hide this section, defaults to true
 };
