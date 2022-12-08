@@ -259,7 +259,7 @@ const bigProjects = {
     {
       image: require("./assets/images/HackChat.png"),
       projectName: "Crypto Counter 2",
-      projectDesc: "Search and view real time crypto coins and their prices, market cap, and daily chang percentage",
+      projectDesc: "Search and view real time crypto coins and their prices, market cap, and daily change percentage",
       footerLink: [
         {
           name: "Visit Website",
