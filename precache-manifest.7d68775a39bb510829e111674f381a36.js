@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4277800a161723b50b147b251dbf563b",
+    "revision": "af30973e9b942df2781e6932f87fe1b3",
     "url": "/Nick-Hastings-React-Portfolio/index.html"
   },
   {
-    "revision": "c1d9dbad5f3ad7bad545",
+    "revision": "806828e8f8f5060366ef",
     "url": "/Nick-Hastings-React-Portfolio/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "5a64178acd3f834ad19d",
+    "revision": "4ed91a7bc8da645f4c04",
     "url": "/Nick-Hastings-React-Portfolio/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "0dee9c0f0d954f5d4c8c",
+    "revision": "3a0c33216f1d9b8ba186",
     "url": "/Nick-Hastings-React-Portfolio/static/css/main.f92ad186.chunk.css"
   },
   {
-    "revision": "d15dfb1de54dc33c229d",
-    "url": "/Nick-Hastings-React-Portfolio/static/js/2.c7b658c0.chunk.js"
+    "revision": "9f879e5d3bde90a4df27",
+    "url": "/Nick-Hastings-React-Portfolio/static/js/2.0c20a0ce.chunk.js"
   },
   {
     "revision": "408f8ade359af8695a328ed937291fdf",
-    "url": "/Nick-Hastings-React-Portfolio/static/js/2.c7b658c0.chunk.js.LICENSE.txt"
+    "url": "/Nick-Hastings-React-Portfolio/static/js/2.0c20a0ce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c1d9dbad5f3ad7bad545",
-    "url": "/Nick-Hastings-React-Portfolio/static/js/3.0d0449c7.chunk.js"
+    "revision": "806828e8f8f5060366ef",
+    "url": "/Nick-Hastings-React-Portfolio/static/js/3.ba9a25c6.chunk.js"
   },
   {
-    "revision": "5a64178acd3f834ad19d",
-    "url": "/Nick-Hastings-React-Portfolio/static/js/4.eff39f0e.chunk.js"
+    "revision": "4ed91a7bc8da645f4c04",
+    "url": "/Nick-Hastings-React-Portfolio/static/js/4.ab86cae2.chunk.js"
   },
   {
-    "revision": "0dee9c0f0d954f5d4c8c",
-    "url": "/Nick-Hastings-React-Portfolio/static/js/main.e92bf8f1.chunk.js"
+    "revision": "3a0c33216f1d9b8ba186",
+    "url": "/Nick-Hastings-React-Portfolio/static/js/main.40573da2.chunk.js"
   },
   {
-    "revision": "8553c2f3198cbaaac702",
-    "url": "/Nick-Hastings-React-Portfolio/static/js/runtime-main.57e9e5f6.js"
+    "revision": "d3aa685e524d91ade500",
+    "url": "/Nick-Hastings-React-Portfolio/static/js/runtime-main.dfd4b725.js"
   },
   {
     "revision": "d41d8cd98f00b204e9800998ecf8427e",
@@ -84,6 +84,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Nick-Hastings-React-Portfolio/static/media/developerActivity.59389695.svg"
   },
   {
+    "revision": "54f057cd7fd6d81fee0c38bb0bb6f7c7",
+    "url": "/Nick-Hastings-React-Portfolio/static/media/flash.54f057cd.png"
+  },
+  {
     "revision": "6083a62f0b86a445ff3ef7584c2d2d45",
     "url": "/Nick-Hastings-React-Portfolio/static/media/ku.6083a62f.png"
   },
@@ -96,7 +100,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Nick-Hastings-React-Portfolio/static/media/skill.34409398.svg"
   },
   {
+    "revision": "7bf418434e91fef9bdb29e1eb1224a70",
+    "url": "/Nick-Hastings-React-Portfolio/static/media/sweetb.7bf41843.png"
+  },
+  {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
     "url": "/Nick-Hastings-React-Portfolio/static/media/talksCardBack.13780cdd.svg"
+  },
+  {
+    "revision": "316c0f1680833954bc3eba8fa8bbb207",
+    "url": "/Nick-Hastings-React-Portfolio/static/media/texteditor.316c0f16.png"
   }
 ]);
