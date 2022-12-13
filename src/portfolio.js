@@ -268,7 +268,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/flash"),
+      image: require("./assets/images/flash.png"),
       projectName: "Flash Data",
       projectDesc: "A flashcard creation app that allows users to create flashcards and quiz themselves or others on them. A user will be able to create a deck of flashcards, add or delete cards to the deck",
       footerLink: [
@@ -279,7 +279,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/texteditor"),
+      image: require("./assets/images/texteditor.png"),
       projectName: "Text Editor",
       projectDesc: "Installable text editor",
       footerLink: [
