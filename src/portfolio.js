@@ -266,6 +266,39 @@ const bigProjects = {
           url: "https://sensational-meerkat-55269f.netlify.app/"
         }
       ]
+    },
+    {
+      image: require("./assets/images/flash"),
+      projectName: "Flash Data",
+      projectDesc: "A flashcard creation app that allows users to create flashcards and quiz themselves or others on them. A user will be able to create a deck of flashcards, add or delete cards to the deck",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://nameless-hamlet-43462.herokuapp.com/dashboard"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/texteditor"),
+      projectName: "Text Editor",
+      projectDesc: "Installable text editor",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://mod-19-text-editor.herokuapp.com/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/sweetb.png"),
+      projectName: "Sweet Beats",
+      projectDesc: "Product page example",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: " https://nhastings1.github.io/Sweet-Beats-Product-Page/"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true

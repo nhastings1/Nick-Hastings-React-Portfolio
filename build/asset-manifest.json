@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Nick-Hastings-React-Portfolio/static/css/main.f92ad186.chunk.css",
-    "main.js": "/Nick-Hastings-React-Portfolio/static/js/main.16dba3d4.chunk.js",
-    "main.js.map": "/Nick-Hastings-React-Portfolio/static/js/main.16dba3d4.chunk.js.map",
+    "main.js": "/Nick-Hastings-React-Portfolio/static/js/main.e92bf8f1.chunk.js",
+    "main.js.map": "/Nick-Hastings-React-Portfolio/static/js/main.e92bf8f1.chunk.js.map",
     "runtime-main.js": "/Nick-Hastings-React-Portfolio/static/js/runtime-main.57e9e5f6.js",
     "runtime-main.js.map": "/Nick-Hastings-React-Portfolio/static/js/runtime-main.57e9e5f6.js.map",
     "static/js/2.c7b658c0.chunk.js": "/Nick-Hastings-React-Portfolio/static/js/2.c7b658c0.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.eff39f0e.chunk.js": "/Nick-Hastings-React-Portfolio/static/js/4.eff39f0e.chunk.js",
     "static/js/4.eff39f0e.chunk.js.map": "/Nick-Hastings-React-Portfolio/static/js/4.eff39f0e.chunk.js.map",
     "index.html": "/Nick-Hastings-React-Portfolio/index.html",
-    "precache-manifest.2f460d7558c018c44a0295d76482b0a3.js": "/Nick-Hastings-React-Portfolio/precache-manifest.2f460d7558c018c44a0295d76482b0a3.js",
+    "precache-manifest.c4711952159bec72d96c47a9c80960d1.js": "/Nick-Hastings-React-Portfolio/precache-manifest.c4711952159bec72d96c47a9c80960d1.js",
     "service-worker.js": "/Nick-Hastings-React-Portfolio/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/Nick-Hastings-React-Portfolio/static/css/3.df879eac.chunk.css.map",
     "static/css/4.d7ceb645.chunk.css.map": "/Nick-Hastings-React-Portfolio/static/css/4.d7ceb645.chunk.css.map",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.57e9e5f6.js",
     "static/js/2.c7b658c0.chunk.js",
     "static/css/main.f92ad186.chunk.css",
-    "static/js/main.16dba3d4.chunk.js"
+    "static/js/main.e92bf8f1.chunk.js"
   ]
 }
