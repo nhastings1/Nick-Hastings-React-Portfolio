@@ -288,17 +288,6 @@ const bigProjects = {
           url: "https://mod-19-text-editor.herokuapp.com/"
         }
       ]
-    },
-    {
-      image: require("./assets/images/sweetb.png"),
-      projectName: "Sweet Beats",
-      projectDesc: "Product page example",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: " https://nhastings1.github.io/Sweet-Beats-Product-Page/"
-        }
-      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -321,7 +310,8 @@ const achievementSection = {
       image: require("./assets/images/ku.png"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: ""},
+        {name: "Certification", 
+          url: "https://drive.google.com/file/d/1_QmkE6cLU_ELMagQFpPerZaOQ4pBuQv_/view?usp=sharing"},
         {
           name: "Final Project",
           url: ""
