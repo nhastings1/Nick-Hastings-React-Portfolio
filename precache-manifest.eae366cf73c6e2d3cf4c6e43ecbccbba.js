@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61ef16baf7e663080036e2770e92147e",
+    "revision": "6e6ba4abdb6cbfd344734e5719cfaae8",
     "url": "/Nick-Hastings-React-Portfolio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Nick-Hastings-React-Portfolio/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "b1bb143a1991b6328742",
+    "revision": "3eb96f0dba84d567245f",
     "url": "/Nick-Hastings-React-Portfolio/static/css/main.f92ad186.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Nick-Hastings-React-Portfolio/static/js/4.4deef8bc.chunk.js"
   },
   {
-    "revision": "b1bb143a1991b6328742",
-    "url": "/Nick-Hastings-React-Portfolio/static/js/main.b839cc22.chunk.js"
+    "revision": "3eb96f0dba84d567245f",
+    "url": "/Nick-Hastings-React-Portfolio/static/js/main.9fc3b57f.chunk.js"
   },
   {
     "revision": "8de1757433010a461b34",
