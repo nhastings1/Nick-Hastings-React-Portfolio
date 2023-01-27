@@ -288,6 +288,17 @@ const bigProjects = {
           url: "https://mod-19-text-editor.herokuapp.com/"
         }
       ]
+    },
+    {
+      image: require("./assets/images/Events.png"),
+      projectName: "Stephanies Event Services",
+      projectDesc: "Wedding and event planning agency website",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://www.stephaniesevents.com/"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
