@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e3aa4ea76a2fc4ac00e9877630d8ae92",
+    "revision": "451e5a7bca94e2521d851132414d0b3c",
     "url": "/Nick-Hastings-React-Portfolio/index.html"
   },
   {
-    "revision": "b28bd780a48ff18142eb",
+    "revision": "806828e8f8f5060366ef",
     "url": "/Nick-Hastings-React-Portfolio/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "c91de5b43d78615d9a1f",
+    "revision": "4ed91a7bc8da645f4c04",
     "url": "/Nick-Hastings-React-Portfolio/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "3eb96f0dba84d567245f",
+    "revision": "05ed30ed834e18d30806",
     "url": "/Nick-Hastings-React-Portfolio/static/css/main.f92ad186.chunk.css"
   },
   {
-    "revision": "0e7f2ac00264950777a3",
-    "url": "/Nick-Hastings-React-Portfolio/static/js/2.08cf65be.chunk.js"
+    "revision": "7cbac7c14c406fc51efb",
+    "url": "/Nick-Hastings-React-Portfolio/static/js/2.96ebc13f.chunk.js"
   },
   {
     "revision": "408f8ade359af8695a328ed937291fdf",
-    "url": "/Nick-Hastings-React-Portfolio/static/js/2.08cf65be.chunk.js.LICENSE.txt"
+    "url": "/Nick-Hastings-React-Portfolio/static/js/2.96ebc13f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b28bd780a48ff18142eb",
-    "url": "/Nick-Hastings-React-Portfolio/static/js/3.5f4a1d07.chunk.js"
+    "revision": "806828e8f8f5060366ef",
+    "url": "/Nick-Hastings-React-Portfolio/static/js/3.ba9a25c6.chunk.js"
   },
   {
-    "revision": "c91de5b43d78615d9a1f",
-    "url": "/Nick-Hastings-React-Portfolio/static/js/4.4deef8bc.chunk.js"
+    "revision": "4ed91a7bc8da645f4c04",
+    "url": "/Nick-Hastings-React-Portfolio/static/js/4.ab86cae2.chunk.js"
   },
   {
-    "revision": "3eb96f0dba84d567245f",
-    "url": "/Nick-Hastings-React-Portfolio/static/js/main.9fc3b57f.chunk.js"
+    "revision": "05ed30ed834e18d30806",
+    "url": "/Nick-Hastings-React-Portfolio/static/js/main.e183322a.chunk.js"
   },
   {
-    "revision": "8de1757433010a461b34",
-    "url": "/Nick-Hastings-React-Portfolio/static/js/runtime-main.0de55cb5.js"
+    "revision": "d3aa685e524d91ade500",
+    "url": "/Nick-Hastings-React-Portfolio/static/js/runtime-main.dfd4b725.js"
   },
   {
     "revision": "d41d8cd98f00b204e9800998ecf8427e",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4c7c39201cdd1a93e4bc6ac01a14583c",
     "url": "/Nick-Hastings-React-Portfolio/static/media/Concert.4c7c3920.png"
+  },
+  {
+    "revision": "23b6158fb31c0c7a2d817ceaf2215beb",
+    "url": "/Nick-Hastings-React-Portfolio/static/media/Events.23b6158f.png"
   },
   {
     "revision": "fa110f3c5b122db6f117c5a57fb517ec",
