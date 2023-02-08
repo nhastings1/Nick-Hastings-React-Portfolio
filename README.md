@@ -1,6 +1,8 @@
 # Nick Hastings Software Developer Folio ⚡️ 
 
-![Live Portfolio Demo](./src/assets/images/DemoRecording.gif)
+![IMG](./src/assets/images/DemoPic.png)
+
+Live Portfolio Demo **[click here](https://drive.google.com/file/d/1nwV_iucJzee5eeXdQxEqmFCOczKWG2pb/view?usp=share_link)**
 
 ## Table of Contents
 
