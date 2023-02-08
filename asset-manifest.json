@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Nick-Hastings-React-Portfolio/static/css/main.f92ad186.chunk.css",
-    "main.js": "/Nick-Hastings-React-Portfolio/static/js/main.e183322a.chunk.js",
-    "main.js.map": "/Nick-Hastings-React-Portfolio/static/js/main.e183322a.chunk.js.map",
-    "runtime-main.js": "/Nick-Hastings-React-Portfolio/static/js/runtime-main.dfd4b725.js",
-    "runtime-main.js.map": "/Nick-Hastings-React-Portfolio/static/js/runtime-main.dfd4b725.js.map",
-    "static/js/2.96ebc13f.chunk.js": "/Nick-Hastings-React-Portfolio/static/js/2.96ebc13f.chunk.js",
-    "static/js/2.96ebc13f.chunk.js.map": "/Nick-Hastings-React-Portfolio/static/js/2.96ebc13f.chunk.js.map",
+    "main.js": "/Nick-Hastings-React-Portfolio/static/js/main.767478b6.chunk.js",
+    "main.js.map": "/Nick-Hastings-React-Portfolio/static/js/main.767478b6.chunk.js.map",
+    "runtime-main.js": "/Nick-Hastings-React-Portfolio/static/js/runtime-main.92f52ab7.js",
+    "runtime-main.js.map": "/Nick-Hastings-React-Portfolio/static/js/runtime-main.92f52ab7.js.map",
+    "static/js/2.7cd2c23e.chunk.js": "/Nick-Hastings-React-Portfolio/static/js/2.7cd2c23e.chunk.js",
+    "static/js/2.7cd2c23e.chunk.js.map": "/Nick-Hastings-React-Portfolio/static/js/2.7cd2c23e.chunk.js.map",
     "static/css/3.df879eac.chunk.css": "/Nick-Hastings-React-Portfolio/static/css/3.df879eac.chunk.css",
-    "static/js/3.ba9a25c6.chunk.js": "/Nick-Hastings-React-Portfolio/static/js/3.ba9a25c6.chunk.js",
-    "static/js/3.ba9a25c6.chunk.js.map": "/Nick-Hastings-React-Portfolio/static/js/3.ba9a25c6.chunk.js.map",
+    "static/js/3.01fe31dd.chunk.js": "/Nick-Hastings-React-Portfolio/static/js/3.01fe31dd.chunk.js",
+    "static/js/3.01fe31dd.chunk.js.map": "/Nick-Hastings-React-Portfolio/static/js/3.01fe31dd.chunk.js.map",
     "static/css/4.d7ceb645.chunk.css": "/Nick-Hastings-React-Portfolio/static/css/4.d7ceb645.chunk.css",
-    "static/js/4.ab86cae2.chunk.js": "/Nick-Hastings-React-Portfolio/static/js/4.ab86cae2.chunk.js",
-    "static/js/4.ab86cae2.chunk.js.map": "/Nick-Hastings-React-Portfolio/static/js/4.ab86cae2.chunk.js.map",
+    "static/js/4.f93eb6a4.chunk.js": "/Nick-Hastings-React-Portfolio/static/js/4.f93eb6a4.chunk.js",
+    "static/js/4.f93eb6a4.chunk.js.map": "/Nick-Hastings-React-Portfolio/static/js/4.f93eb6a4.chunk.js.map",
     "index.html": "/Nick-Hastings-React-Portfolio/index.html",
-    "precache-manifest.bbeed154e085f36ef6dd64d6150cb590.js": "/Nick-Hastings-React-Portfolio/precache-manifest.bbeed154e085f36ef6dd64d6150cb590.js",
+    "precache-manifest.8fd353cc8fc2a7ef5adee14d7aa9e8ac.js": "/Nick-Hastings-React-Portfolio/precache-manifest.8fd353cc8fc2a7ef5adee14d7aa9e8ac.js",
     "service-worker.js": "/Nick-Hastings-React-Portfolio/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/Nick-Hastings-React-Portfolio/static/css/3.df879eac.chunk.css.map",
     "static/css/4.d7ceb645.chunk.css.map": "/Nick-Hastings-React-Portfolio/static/css/4.d7ceb645.chunk.css.map",
     "static/css/main.f92ad186.chunk.css.map": "/Nick-Hastings-React-Portfolio/static/css/main.f92ad186.chunk.css.map",
-    "static/js/2.96ebc13f.chunk.js.LICENSE.txt": "/Nick-Hastings-React-Portfolio/static/js/2.96ebc13f.chunk.js.LICENSE.txt",
+    "static/js/2.7cd2c23e.chunk.js.LICENSE.txt": "/Nick-Hastings-React-Portfolio/static/js/2.7cd2c23e.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Nick-Hastings-React-Portfolio/static/media/Montserrat-Regular.d41d8cd9.ttf",
     "static/media/Concert.png": "/Nick-Hastings-React-Portfolio/static/media/Concert.4c7c3920.png",
     "static/media/Events.png": "/Nick-Hastings-React-Portfolio/static/media/Events.23b6158f.png",
@@ -36,12 +36,13 @@
     "static/media/manOnTable.svg": "/Nick-Hastings-React-Portfolio/static/media/manOnTable.52be3144.svg",
     "static/media/skill.svg": "/Nick-Hastings-React-Portfolio/static/media/skill.34409398.svg",
     "static/media/TalkCard.scss": "/Nick-Hastings-React-Portfolio/static/media/talksCardBack.13780cdd.svg",
-    "static/media/texteditor.png": "/Nick-Hastings-React-Portfolio/static/media/texteditor.316c0f16.png"
+    "static/media/texteditor.png": "/Nick-Hastings-React-Portfolio/static/media/texteditor.316c0f16.png",
+    "static/media/video-chat.png": "/Nick-Hastings-React-Portfolio/static/media/video-chat.7d4aa62f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dfd4b725.js",
-    "static/js/2.96ebc13f.chunk.js",
+    "static/js/runtime-main.92f52ab7.js",
+    "static/js/2.7cd2c23e.chunk.js",
     "static/css/main.f92ad186.chunk.css",
-    "static/js/main.e183322a.chunk.js"
+    "static/js/main.767478b6.chunk.js"
   ]
 }
