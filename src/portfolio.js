@@ -299,6 +299,17 @@ const bigProjects = {
           url: "https://www.stephaniesevents.com/"
         }
       ]
+    },
+    {
+      image: require("./assets/images/video-chat.png"),
+      projectName: "Connect Video Chat",
+      projectDesc: "Simple to use video, audio, and text chat app",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://connect-video-app-chat.herokuapp.com/05a25c2b-0fcf-4c72-a276-ed346705545b"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
